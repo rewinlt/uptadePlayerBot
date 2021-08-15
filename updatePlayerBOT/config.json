@@ -1,0 +1,26 @@
+{
+    "token": "",
+    "prefix": "!",
+    "logo":  "",
+    "hex_color": "#0099ff", 
+    "community_name": "", 
+    "role_access_id": "",
+    "discord_logs_channel_id": "",
+    
+    "database_host": "",
+    "database_user": "",
+    "database_password": "",
+    "database_base": "",
+
+    "money": true,
+    "job": true,
+    "bank": true,
+    "permission_levl": true,
+    "group": true,
+    "playername": true,
+    "dateofbirth": true,
+    "sex": true,
+    "height": true,
+    "phone_number": true,
+    "rpkill": true
+}
