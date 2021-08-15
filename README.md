@@ -1,1 +1,1 @@
-# uptadePlayerBot
+# FiveM  Discord updatePlayerSQL Bot
